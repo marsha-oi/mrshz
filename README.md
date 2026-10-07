@@ -3,8 +3,8 @@
 <h3 align="center">Game Programmer | Information Systems Student</h3>
 
 <p align="center">
-  I'm a Game Programmer and Information Systems student interested in game development,
-  software development, and interactive experiences.
+  I'm a Game Programmer and Information Systems student interested in
+  game development, software development, and interactive experiences.
 </p>
 
 ---
@@ -16,7 +16,6 @@
 - 👯 I'm looking to collaborate on **Game Development Projects**
 - 💬 Ask me about **Unity, C#, Game Programming, and Game Systems**
 - 📫 How to reach me: **marsharahmalia01@gmail.com**
-- 📂 My projects and experiments are available on **GitHub**
 
 ---
 
@@ -40,6 +39,7 @@
   <a href="mailto:marsharahmalia01@gmail.com">
     <img src="https://img.shields.io/badge/Email-marsharahmalia01%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+
   <a href="https://github.com/marsha-oi" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-marsha--oi-black?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
@@ -83,7 +83,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 </a>
 
-<a href="https://www.krita.org/" target="_blank" rel="noreferrer">
+<a href="https://krita.org/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Calligrakrita-base.svg" alt="Krita" width="40" height="40"/>
 </a>
 
@@ -95,64 +95,94 @@
 
 ---
 
-<h3 align="left">Game Development</h3>
-
-<p>
-  <strong>Unity</strong> · 
-  <strong>C#</strong> · 
-  Gameplay Programming · 
-  Game Systems · 
-  Quest Systems · 
-  UI Integration · 
-  Git & GitHub
-</p>
-
----
-
-<h3 align="left">Projects</h3>
+<h3 align="left">My Projects</h3>
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-<h3>INDEKOS</h3>
+<h3 align="center">INDEKOS</h3>
 
-<p>
-Narrative game developed with Unity and C#.
-</p>
+<a href="LINK_TRAILER_INDEKOS">
+  <img src="LINK_THUMBNAIL_INDEKOS" width="100%" alt="INDEKOS Trailer">
+</a>
 
 <p>
 <strong>Role:</strong> Game Programmer<br>
+<strong>Context:</strong> Team Project<br>
+<strong>Platform:</strong> PC [Windows]<br>
 <strong>Engine:</strong> Unity<br>
 <strong>Language:</strong> C#<br>
-<strong>Platform:</strong> PC
+<strong>Architecture:</strong> State Pattern, Singleton
 </p>
 
-<a href="https://github.com/marsha-oi">
-View Project
-</a>
+<p>
+A narrative game developed with Unity and C#. 
+Responsible for gameplay systems, quest systems, game logic,
+UI integration, and system architecture.
+</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>Game Development Projects</h3>
+<h3 align="center">CRIMINAL</h3>
+
+<a href="LINK_TRAILER_CRIMINAL">
+  <img src="LINK_THUMBNAIL_CRIMINAL" width="100%" alt="Criminal Trailer">
+</a>
 
 <p>
-Personal and collaborative projects focused on gameplay programming,
-game mechanics, and interactive systems.
-</p>
-
-<p>
-<strong>Role:</strong> Game Programmer<br>
+<strong>Role:</strong> Solo Developer<br>
+<strong>Context:</strong> Personal Project<br>
+<strong>Platform:</strong> Mobile<br>
 <strong>Engine:</strong> Unity<br>
 <strong>Language:</strong> C#
 </p>
 
-<a href="https://github.com/marsha-oi">
-View Projects
+<p>
+A personal 3D game project developed to explore
+gameplay programming, game mechanics, and interactive systems.
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">TRIPLE SHIFT</h3>
+
+<a href="LINK_TRAILER_TRIPLE_SHIFT">
+  <img src="LINK_THUMBNAIL_TRIPLE_SHIFT" width="100%" alt="Triple Shift Trailer">
 </a>
+
+<p>
+<strong>Role:</strong> Game Programmer<br>
+<strong>Context:</strong> Team Project<br>
+<strong>Platform:</strong> PC [Windows]<br>
+<strong>Engine:</strong> Custom / OpenGL<br>
+<strong>Language:</strong> C++
+</p>
+
+<p>
+A collaborative game project focused on gameplay programming,
+systems development, and working within a team environment.
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">More Projects</h3>
+
+<p>
+Additional experiments, game jam projects, and programming projects
+will be added here as they are developed.
+</p>
 
 </td>
 
@@ -174,8 +204,22 @@ game logic, UI integration, and system development.
 </p>
 
 <p>
-I've also participated in collaborative game development projects and
-Global Game Jam, gaining experience in rapid prototyping, teamwork,
+<strong>Game Programmer — Unimasoft Studio</strong>
+</p>
+
+<p>
+Worked as a Game Programmer, contributing to game development,
+gameplay implementation, programming systems, and collaborative
+development workflows.
+</p>
+
+<p>
+<strong>Game Development Projects & Global Game Jam</strong>
+</p>
+
+<p>
+Participated in collaborative game development projects and Global Game Jam,
+gaining experience in rapid prototyping, teamwork, problem solving,
 and developing gameplay under time constraints.
 </p>
 
