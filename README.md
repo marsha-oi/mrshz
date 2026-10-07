@@ -87,18 +87,10 @@
 <td width="50%" valign="top">
 
 <h3 align="center">INDEKOS</h3>
-
-<p align="center">
-  <a href="LINK_TRAILER_INDEKOS">
-    <img src="LINK_THUMBNAIL_INDEKOS" width="100%" alt="INDEKOS Trailer">
-  </a>
-</p>
-
 <p>
   <strong>Role:</strong> Game Programmer<br>
   <strong>Engine:</strong> Unity<br>
   <strong>Language:</strong> C#<br>
-  <strong>Platform:</strong> PC
 </p>
 
 <p>
@@ -116,18 +108,10 @@
 <td width="50%" valign="top">
 
 <h3 align="center">GECKO DUEL</h3>
-
-<p align="center">
-  <a href="LINK_TRAILER_GECKO_DUEL">
-    <img src="LINK_THUMBNAIL_GECKO_DUEL" width="100%" alt="Gecko Duel Trailer">
-  </a>
-</p>
-
 <p>
   <strong>Role:</strong> Game Programmer<br>
   <strong>Engine:</strong> Unity<br>
   <strong>Language:</strong> C#<br>
-  <strong>Platform:</strong> PC
 </p>
 
 <p>
@@ -144,17 +128,10 @@
 
 <h3 align="center">GARUDA: THE PROTECTOR</h3>
 
-<p align="center">
-  <a href="LINK_TRAILER_GARUDA">
-    <img src="LINK_THUMBNAIL_GARUDA" width="100%" alt="Garuda: The Protector Trailer">
-  </a>
-</p>
-
 <p>
   <strong>Role:</strong> Game Programmer<br>
   <strong>Engine:</strong> Unity<br>
   <strong>Language:</strong> C#<br>
-  <strong>Platform:</strong> PC
 </p>
 
 <p>
