@@ -1,21 +1,10 @@
-<h1 align="center">Hi 👋, I'm Marsha</h1>
+<h1 align="center">Hi, I'm Marsha</h1>
 
 <h3 align="center">Game Programmer | Information Systems Student</h3>
 
 <p align="center">
-  I'm a Game Programmer and Information Systems student interested in
-  game development, software development, and interactive experiences.
+  Game Programmer focused on gameplay programming, game systems, and interactive experiences.
 </p>
-
----
-
-<h3 align="left">About Me</h3>
-
-- 🎮 I'm currently working on **INDEKOS**, a narrative game project using Unity and C#
-- 🌱 I'm currently learning **Information Systems, Algorithms, and Software Development**
-- 👯 I'm looking to collaborate on **Game Development Projects**
-- 💬 Ask me about **Unity, C#, Game Programming, and Game Systems**
-- 📫 How to reach me: **marsharahmalia01@gmail.com**
 
 ---
 
@@ -26,23 +15,8 @@
 </p>
 
 <p>
-  A narrative game developed with Unity and C#. 
-  I'm involved in gameplay programming, quest systems, game logic,
-  UI integration, and system architecture.
-</p>
-
----
-
-<h3 align="left">Connect With Me</h3>
-
-<p align="left">
-  <a href="mailto:marsharahmalia01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-marsharahmalia01%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-
-  <a href="https://github.com/marsha-oi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-marsha--oi-black?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  A narrative game developed with Unity and C#. My work focuses on gameplay
+  systems, quest systems, game logic, UI integration, and system architecture.
 </p>
 
 ---
@@ -52,50 +26,60 @@
 <p align="left">
 
 <a href="https://unity.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg"
+  alt="Unity" width="40" height="40"/>
 </a>
 
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+  alt="C#" width="40" height="40"/>
 </a>
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
+  alt="Git" width="40" height="40"/>
 </a>
 
 <a href="https://github.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+  alt="GitHub" width="40" height="40"/>
 </a>
 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
+  alt="VS Code" width="40" height="40"/>
 </a>
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+  alt="HTML5" width="40" height="40"/>
 </a>
 
 <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+  alt="CSS3" width="40" height="40"/>
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+  alt="JavaScript" width="40" height="40"/>
 </a>
 
 <a href="https://krita.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Calligrakrita-base.svg" alt="Krita" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Calligrakrita-base.svg"
+  alt="Krita" width="40" height="40"/>
 </a>
 
 <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"
+  alt="Canva" width="40" height="40"/>
 </a>
 
 </p>
 
 ---
 
-<h3 align="left">My Projects</h3>
+<h3 align="left">Projects</h3>
 
 <table>
 <tr>
@@ -104,46 +88,50 @@
 
 <h3 align="center">INDEKOS</h3>
 
-<a href="LINK_TRAILER_INDEKOS">
-  <img src="LINK_THUMBNAIL_INDEKOS" width="100%" alt="INDEKOS Trailer">
-</a>
-
-<p>
-<strong>Role:</strong> Game Programmer<br>
-<strong>Context:</strong> Team Project<br>
-<strong>Platform:</strong> PC [Windows]<br>
-<strong>Engine:</strong> Unity<br>
-<strong>Language:</strong> C#<br>
-<strong>Architecture:</strong> State Pattern, Singleton
+<p align="center">
+  <a href="LINK_TRAILER_INDEKOS">
+    <img src="LINK_THUMBNAIL_INDEKOS" width="100%" alt="INDEKOS Trailer">
+  </a>
 </p>
 
 <p>
-A narrative game developed with Unity and C#. 
-Responsible for gameplay systems, quest systems, game logic,
-UI integration, and system architecture.
+  <strong>Role:</strong> Game Programmer<br>
+  <strong>Engine:</strong> Unity<br>
+  <strong>Language:</strong> C#<br>
+  <strong>Platform:</strong> PC
+</p>
+
+<p>
+  A narrative game focused on interactive storytelling and gameplay systems.
+</p>
+
+<p>
+  <a href="https://store.steampowered.com/app/3161550/Indekos/">
+    Steam
+  </a>
 </p>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3 align="center">CRIMINAL</h3>
+<h3 align="center">GECKO DUEL</h3>
 
-<a href="LINK_TRAILER_CRIMINAL">
-  <img src="LINK_THUMBNAIL_CRIMINAL" width="100%" alt="Criminal Trailer">
-</a>
-
-<p>
-<strong>Role:</strong> Solo Developer<br>
-<strong>Context:</strong> Personal Project<br>
-<strong>Platform:</strong> Mobile<br>
-<strong>Engine:</strong> Unity<br>
-<strong>Language:</strong> C#
+<p align="center">
+  <a href="LINK_TRAILER_GECKO_DUEL">
+    <img src="LINK_THUMBNAIL_GECKO_DUEL" width="100%" alt="Gecko Duel Trailer">
+  </a>
 </p>
 
 <p>
-A personal 3D game project developed to explore
-gameplay programming, game mechanics, and interactive systems.
+  <strong>Role:</strong> Game Programmer<br>
+  <strong>Engine:</strong> Unity<br>
+  <strong>Language:</strong> C#<br>
+  <strong>Platform:</strong> PC
+</p>
+
+<p>
+  A game project developed with a focus on gameplay programming and interactive mechanics.
 </p>
 
 </td>
@@ -154,35 +142,29 @@ gameplay programming, game mechanics, and interactive systems.
 
 <td width="50%" valign="top">
 
-<h3 align="center">TRIPLE SHIFT</h3>
+<h3 align="center">GARUDA: THE PROTECTOR</h3>
 
-<a href="LINK_TRAILER_TRIPLE_SHIFT">
-  <img src="LINK_THUMBNAIL_TRIPLE_SHIFT" width="100%" alt="Triple Shift Trailer">
-</a>
-
-<p>
-<strong>Role:</strong> Game Programmer<br>
-<strong>Context:</strong> Team Project<br>
-<strong>Platform:</strong> PC [Windows]<br>
-<strong>Engine:</strong> Custom / OpenGL<br>
-<strong>Language:</strong> C++
+<p align="center">
+  <a href="LINK_TRAILER_GARUDA">
+    <img src="LINK_THUMBNAIL_GARUDA" width="100%" alt="Garuda: The Protector Trailer">
+  </a>
 </p>
 
 <p>
-A collaborative game project focused on gameplay programming,
-systems development, and working within a team environment.
+  <strong>Role:</strong> Game Programmer<br>
+  <strong>Engine:</strong> Unity<br>
+  <strong>Language:</strong> C#<br>
+  <strong>Platform:</strong> PC
+</p>
+
+<p>
+  A game project focused on gameplay implementation, programming systems,
+  and interactive experiences.
 </p>
 
 </td>
 
 <td width="50%" valign="top">
-
-<h3 align="center">More Projects</h3>
-
-<p>
-Additional experiments, game jam projects, and programming projects
-will be added here as they are developed.
-</p>
 
 </td>
 
@@ -194,33 +176,32 @@ will be added here as they are developed.
 <h3 align="left">Experience</h3>
 
 <p>
-<strong>Game Programmer — Roleplay Studios</strong>
+  <strong>Game Programmer — Roleplay Studios</strong>
 </p>
 
 <p>
-Working on <strong>INDEKOS</strong>, a narrative game project built with
-Unity and C#. My work includes gameplay systems, quest implementation,
-game logic, UI integration, and system development.
+  Working on <strong>INDEKOS</strong>, a narrative game project developed
+  with Unity and C#. Responsibilities include gameplay programming,
+  quest systems, game logic, UI integration, and system development.
 </p>
 
 <p>
-<strong>Game Programmer — Unimasoft Studio</strong>
+  <strong>Game Programmer — Unimasoft Studio</strong>
 </p>
 
 <p>
-Worked as a Game Programmer, contributing to game development,
-gameplay implementation, programming systems, and collaborative
-development workflows.
+  Contributed to game development through gameplay programming,
+  system implementation, debugging, and collaborative development.
 </p>
 
 <p>
-<strong>Game Development Projects & Global Game Jam</strong>
+  <strong>Game Development & Global Game Jam</strong>
 </p>
 
 <p>
-Participated in collaborative game development projects and Global Game Jam,
-gaining experience in rapid prototyping, teamwork, problem solving,
-and developing gameplay under time constraints.
+  Participated in collaborative game development projects and Global Game Jam,
+  gaining experience in rapid prototyping, teamwork, problem solving,
+  and gameplay implementation under time constraints.
 </p>
 
 ---
@@ -228,15 +209,22 @@ and developing gameplay under time constraints.
 <h3 align="left">Currently Learning</h3>
 
 <p>
-Information Systems · Algorithms · Software Development ·
-Game Architecture · Web Development
+  Information Systems · Algorithms · Software Development ·
+  Game Architecture · Web Development
 </p>
 
 ---
 
-<h3 align="left">Fun Fact</h3>
+<h3 align="left">Contact</h3>
 
 <p>
-I enjoy turning ideas into interactive experiences and building games
-while learning something new from every project.
+  <a href="mailto:marsharahmalia01@gmail.com">
+    marsharahmalia01@gmail.com
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/marsha-oi">
+    GitHub
+  </a>
 </p>
